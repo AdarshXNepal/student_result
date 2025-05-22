@@ -164,8 +164,8 @@ class StudentAnalyzer:
             f"",
             f"Rank: {analysis['Rank']}",
             f"Average Score: {analysis['Average']}",
-            f'Percentage:{analysis['Percentage']}',
-            f"Grade:{analysis['Grade']}"
+            f"Percentage:{analysis['Percentage']}",
+            f"Grade:{analysis['Grade']}",
             f"",
             f"SCORES:",
         ]
